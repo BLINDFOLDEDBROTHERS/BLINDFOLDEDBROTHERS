@@ -7,4 +7,5 @@
 ![](https://komarev.com/ghpvc/?username=BLINDFOLDEDBROTHERS&color=orange)
 
 <div align="center">
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/13f28de0-d42b-40a0-a1c3-22b259ed4bef" />  
+<img width="800" height="451" alt="image" src="https://github.com/user-attachments/assets/afee5c24-4605-4247-acd3-2f189aa917cb" />
+  
