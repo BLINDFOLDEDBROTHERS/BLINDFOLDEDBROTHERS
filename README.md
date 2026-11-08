@@ -2,7 +2,7 @@
 
 
 $$\color{orange}{\text{sys.......}}$$
-</div>
+
 
 ![](https://komarev.com/ghpvc/?username=BLINDFOLDEDBROTHERS&color=orange)
 
