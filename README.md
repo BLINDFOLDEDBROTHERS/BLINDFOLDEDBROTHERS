@@ -1,8 +1,10 @@
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ed73945e-7dc7-4c2d-b7de-e48c18b09791" />
 
 
-$$\color{red}{\text{we’re brothers bro..}}$$
+$$\color{red}{\text{we’re brothers bro..??}}$$
 
+$$\color{orange}{\text{brothers. ..Brothers? We WERE brothers.}}$$
+</div>
 
 ![](https://komarev.com/ghpvc/?username=BLINDFOLDEDBROTHERS&color=orange)
 
