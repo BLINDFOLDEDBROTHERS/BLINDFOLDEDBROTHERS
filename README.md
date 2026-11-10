@@ -6,7 +6,7 @@ $$\color{red}{\text{we’re brothers bro..??}}$$
 $$\color{orange}{\text{brothers. ..Brothers? We WERE brothers.}}$$
 </div>
 
-</div>
+
 
 ![](https://komarev.com/ghpvc/?username=mackrzz&color=orange)
 
